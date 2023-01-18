@@ -1,0 +1,20 @@
+1,asdasda,Item 1,asdasd,sdasd,asdasd
+2,Kobe,Item 1,12345,09958348576,asdasd
+3,kobe,Male,asis,09972901,qwertyuiop
+4,Kobe,Male,asis,1251235,fasdac
+5,kobe,Male,asis,asis,asis
+6,Kobe,Male,12345,asis,dsjkahfjklasd
+7, kobe, Male,12412412, asis, kokfoe
+8, kobe, Male,123124, asis, 123124
+9, kobe, Male,12312, qwerty, asd
+10, fwva, Male,advsed, asdc3, cqwec
+11, qweqw, Male,eqwe, qweqw, qweqw
+12, qweqw, Male,qweqw, qweqw, qweqw
+13, asd, Male,a, a, a
+14, kobe asis, Male,09784124, aaaaa, asd
+15, kobe, Male,123123, asis, dwqvsdf
+16, kobe, Male,asis, asis, jfklsafsd
+17, kobe, Male,1241241, asis, kofkoea
+18, kobe asis, Male,123123, asis, dasdasd
+19, asd, Male,asd, asd, asd
+20. asdasda, Male,099457285, sdasd, windward
